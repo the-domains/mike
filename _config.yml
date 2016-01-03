@@ -1,6 +1,6 @@
 name: mike
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.34061
 title: Mike Lerner
 cta:
@@ -22,8 +22,8 @@ color:
     - '#81865b'
     - '#abb070'
     - '#ebd4c5'
-  brandStrength: 0.21501444815658033
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
+  brandStrength: 0
+  lightness: 0.6875
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
